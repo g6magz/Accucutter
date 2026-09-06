@@ -2,13 +2,13 @@
 **Denver Turf Company**
 
 ## Headline
-Accu Cutter T-12 Artificial Turf Cutting Machine — 2 Years Old, Under 100 Hours, New Electronic Touchscreen Display — $50,000 Firm
+Accu Cutter T-12 Artificial Turf Cutting Machine — 2 Years Old, Under 100 Hours, New Electronic Touchscreen Display Model — $50,000 Firm
 
 ## The Machine
 This is a two-year-old Accu-Cut T-12, the high-volume artificial turf cutter built for distributors and large landscape operations. It has under 100 operating hours and comes with the **new electronic touchscreen display model** — the upgraded PLC interface with touchscreen foot-and-inch entry, preset cut storage, security keypad, and auto-stop at the programmed length.
 
 ## Why This Unit
-- **New electronic touchscreen display** — type the cut length, hit start, the machine stops itself precisely
+- **New electronic touchscreen display model** — type the cut length, hit start, the machine stops itself precisely
 - Under 100 hours — essentially broken in, not worn out
 - Two years old, still covered by the spirit of the original one-year parts-and-labor warranty window
 - Self-sharpening 4.5-inch circular blade, two-direction cutting
@@ -20,10 +20,10 @@ This is a two-year-old Accu-Cut T-12, the high-volume artificial turf cutter bui
 - Barcode and computer integration ready
 
 ## The Workflow
-One operator stages the roll, types the cuts on the new touchscreen, and the T-12 measures, cuts, reverse-rolls, and wraps. Remnants come off clean and ready to display. The whole cycle runs in about two minutes.
+One operator stages the roll, types the cuts on the new electronic touchscreen display, and the T-12 measures, cuts, reverse-rolls, and wraps. Remnants come off clean and ready to display. The whole cycle runs in about two minutes.
 
 ## Price and Terms
-**$50,000 firm.** No lowballing — the low hours and new electronic display justify it. Buyer arranges freight; Denver inspection is welcome before funds move. Photos of the hour meter, the new touchscreen display, blade, and frame available on request.
+**$50,000 firm.** No lowballing — the low hours and new electronic display model justify it. Buyer arranges freight; Denver inspection is welcome before funds move. Photos of the hour meter, the new electronic touchscreen display, blade, and frame available on request.
 
 ## Contact
 Denver Turf Company
