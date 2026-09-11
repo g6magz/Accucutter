@@ -1,0 +1,28 @@
+{
+  "product": "Accu-Cut T-12",
+  "maker": "Accu-Cut / Brockie International Inc.",
+  "category": "Warehouse artificial turf cutting machine",
+  "officialUrl": "https://www.accu-cut.com/machines/t-12-artificial-turf-cutting-machine/",
+  "brochureUrl": "https://www.accu-cut.com/pdf/ACCU-CUT_T-12_Brochure.pdf",
+  "videoUrl": "https://www.youtube.com/watch?v=LVOqxUVxW4A",
+  "listing": {
+    "seller": "Denver Turf Company",
+    "location": "Denver, Colorado",
+    "priceUsd": 50000,
+    "priceFirm": true,
+    "ageYears": 2,
+    "hours": "under 100",
+    "controls": "New electronic touchscreen PLC display",
+    "inspection": "Welcome, test cut by appointment",
+    "freight": "Buyer arranges"
+  },
+  "specs": {
+    "maxWidthFt": 15,
+    "maxWidthMetric": "16'4\" / 5 m",
+    "size": "18'6\" L x 7'9\" W x 3'10\" H",
+    "power": "220 V single-phase / 60 Hz / 15 A",
+    "airPsi": 120,
+    "blade": "4.5 inch circular, beveled, self-sharpening",
+    "operation": "One person"
+  }
+}
